@@ -1,6 +1,6 @@
 // !chapter_31_34
 
-var date1 = new Date();
+// var date1 = new Date();
 //* q1
 // document.write(date1)
 
